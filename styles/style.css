@@ -145,7 +145,6 @@ article a {
 }
 ul {
     columns: 2;
-    padding-left: 150px;
     list-style-position: inside;
     text-align: justify;
 }
