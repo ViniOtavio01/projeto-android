@@ -146,7 +146,6 @@ article a {
 ul {
     columns: 2;
     list-style-position: inside;
-    text-align: justify;
 }
 footer {
     background-color: var(--cor5);
